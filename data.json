@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "jam": "03:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Ayam Tangkap",
+      "pengeluaran": 77249
+    },
+    {
+      "jam": "05:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Mie Rebus",
+      "pengeluaran": 32154
+    },
+    {
+      "jam": "07:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Ayam Geprek",
+      "pengeluaran": 20000
+    },
+    {
+      "jam": "09:15",
+      "tanggal": "18 Februari 2021",
+      "nama": "Mie Rebus",
+      "pengeluaran": 10500
+    },
+    {
+      "jam": "00:20",
+      "tanggal": "17 Februari 2021",
+      "nama": "Soto Kuning",
+      "pengeluaran": 34992
+    },
+    {
+      "jam": "05:59",
+      "tanggal": "17 Februari 2021",
+      "nama": "Ayam Geprek",
+      "pengeluaran": 37674
+    },
+    {
+      "jam": "07:20",
+      "tanggal": "17 Februari 2021",
+      "nama": "Soto Daging",
+      "pengeluaran": 25500
+    },
+    {
+      "jam": "10:59",
+      "tanggal": "17 Februari 2021",
+      "nama": "Gado - Gado",
+      "pengeluaran": 50500
+    },
+    {
+      "jam": "05:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Otak-otak",
+      "pengeluaran": 11971
+    },
+    {
+      "jam": "08:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Nasi Pecel",
+      "pengeluaran": 15000
+    },
+    {
+      "jam": "10:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Nasi Padang",
+      "pengeluaran": 32503
+    },
+    {
+      "jam": "01:45",
+      "tanggal": "16 Februari 2021",
+      "nama": "Nasi Jagung",
+      "pengeluaran": 15750
+    },
+    {
+      "jam": "05:45",
+      "tanggal": "15 Februari 2021",
+      "nama": "Indomie",
+      "pengeluaran": 15670
+    },
+    {
+      "jam": "07:45",
+      "tanggal": "15 Februari 2021",
+      "nama": "Nasi Rawon",
+      "pengeluaran": 15550
+    },
+    {
+      "jam": "10:00",
+      "tanggal": "15 Februari 2021",
+      "nama": "Nasi Padang",
+      "pengeluaran": 32103
+    },
+    {
+      "jam": "01:45",
+      "tanggal": "15 Februari 2021",
+      "nama": "Burger",
+      "pengeluaran": 35750
+    },
+    {
+      "jam": "06:00",
+      "tanggal": "14 Februari 2021",
+      "nama": "Mie Soto",
+      "pengeluaran": 25670
+    },
+    {
+      "jam": "07:45",
+      "tanggal": "14 Februari 2021",
+      "nama": "Nasi Pecel",
+      "pengeluaran": 17550
+    },
+    {
+      "jam": "10:00",
+      "tanggal": "14 Februari 2021",
+      "nama": "Rujak",
+      "pengeluaran": 22103
+    },
+    {
+      "jam": "01:45",
+      "tanggal": "14 Februari 2021",
+      "nama": "Sosis Bakar",
+      "pengeluaran": 55750
+    },
+    {
+      "jam": "05:00",
+      "tanggal": "13 Februari 2021",
+      "nama": "Nasi Goreng",
+      "pengeluaran": 45670
+    },
+    {
+      "jam": "07:45",
+      "tanggal": "13 Februari 2021",
+      "nama": "Nasi Bakar",
+      "pengeluaran": 117550
+    },
+    {
+      "jam": "15:00",
+      "tanggal": "13 Februari 2021",
+      "nama": "Pizza",
+      "pengeluaran": 122103
+    },
+    {
+      "jam": "10:45",
+      "tanggal": "13 Februari 2021",
+      "nama": "Nasi Goreng",
+      "pengeluaran": 65750
+    },
+    {
+      "jam": "07:00",
+      "tanggal": "12 Februari 2021",
+      "nama": "Nasi Gudeg",
+      "pengeluaran": 25670
+    },
+    {
+      "jam": "10:45",
+      "tanggal": "12 Februari 2021",
+      "nama": "Nasi Pecel",
+      "pengeluaran": 11550
+    },
+    {
+      "jam": "14:00",
+      "tanggal": "12 Februari 2021",
+      "nama": "Bubur Ayam",
+      "pengeluaran": 12103
+    },
+    {
+      "jam": "16:45",
+      "tanggal": "12 Februari 2021",
+      "nama": "Nasi Padang",
+      "pengeluaran": 35750
+    },
+    {
+      "jam": "07:00",
+      "tanggal": "11 Februari 2021",
+      "nama": "Nasi Goreng Jawa",
+      "pengeluaran": 45670
+    },
+    {
+      "jam": "10:45",
+      "tanggal": "11 Februari 2021",
+      "nama": "Nasi Pecel",
+      "pengeluaran": 13563
+    },
+    {
+      "jam": "14:00",
+      "tanggal": "11 Februari 2021",
+      "nama": "Soto Daging",
+      "pengeluaran": 62103
+    },
+    {
+      "jam": "16:45",
+      "tanggal": "11 Februari 2021",
+      "nama": "Nasi Krawu",
+      "pengeluaran": 95750
+    }
+  ]
+}
